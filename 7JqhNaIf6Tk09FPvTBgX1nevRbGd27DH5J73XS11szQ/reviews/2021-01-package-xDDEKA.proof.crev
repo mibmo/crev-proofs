@@ -22,3 +22,26 @@ comment: |-
 tfa2rgXaFP23uBbDzn42gWCI7jded_FxK42nWcpLg7c2WzWnRcmnhus4dpnqnnuDz-DR5eIGWxw-dOhRb_ZNDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-01-26T17:22:48.026156438+01:00"
+from:
+  id-type: crev
+  id: 7JqhNaIf6Tk09FPvTBgX1nevRbGd27DH5J73XS11szQ
+  url: "https://github.com/mibmo/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: openssl-probe
+  version: 0.1.2
+  digest: dKMa52a6toR8bi8G6nwGy6p1y893yV-ARG7_LqmYn1c
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  A crate for finding system CA locations
+----- SIGN CREV PROOF -----
+RcxuTkS6KOhXPUZotzl_5iD11EeytBoQBXY0e05NTkzBeRfXvhRalsIp8mYydcX0PUPMNk6lxPpV0G9JvzH9Dg
+----- END CREV PROOF -----
+
