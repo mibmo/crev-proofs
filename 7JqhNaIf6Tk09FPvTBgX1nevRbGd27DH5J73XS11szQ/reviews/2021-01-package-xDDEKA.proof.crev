@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-01-26T17:16:57.951452511+01:00"
+from:
+  id-type: crev
+  id: 7JqhNaIf6Tk09FPvTBgX1nevRbGd27DH5J73XS11szQ
+  url: "https://github.com/mibmo/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pin-utils
+  version: 0.1.0
+  revision: cddb4e490757830eff709310b32376420d7f5e93
+  digest: StXvJhM6vBnQIXTuFgQFY_qCjTW38FD9HEoovwI9B6Q
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Simple types for unsafe pinning
+----- SIGN CREV PROOF -----
+tfa2rgXaFP23uBbDzn42gWCI7jded_FxK42nWcpLg7c2WzWnRcmnhus4dpnqnnuDz-DR5eIGWxw-dOhRb_ZNDw
+----- END CREV PROOF -----
+
