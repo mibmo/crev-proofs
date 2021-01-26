@@ -17,3 +17,22 @@ comment: |-
 0lo1Q7Qse9D_as9qFI6_SgC2TVZYN2yoGbujUMiNv4a29Tx1-7RQ1bENTwQpD0J6EpWstjdycIOxtgOIyBAwBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-01-26T17:10:43.765423850+01:00"
+from:
+  id-type: crev
+  id: 7JqhNaIf6Tk09FPvTBgX1nevRbGd27DH5J73XS11szQ
+  url: "https://github.com/mibmo/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Assume the maker of crev is pretty trustworthy.
+----- SIGN CREV PROOF -----
+Mk9gS4WehJiKkWu89PWhE8FHKrzLQy362ajeCLjhOBnTQh5X2uEsRsCEoADEMDM7hqv2gahLig6WNZZUwoLXAg
+----- END CREV PROOF -----
+
